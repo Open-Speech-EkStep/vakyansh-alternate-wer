@@ -46,3 +46,7 @@ The link to the original 21 hours of data can be found at : [Vakyansh Benchmark 
 Viterbi : [link](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/viterbi)
 <br>
 LM output : [link](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/lm)
+<br>
+ 
+ For detailed inference steps, refer to : [results/infer_vakyansh.md](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/blob/main/results/infer_vakyansh.md)
+ 
