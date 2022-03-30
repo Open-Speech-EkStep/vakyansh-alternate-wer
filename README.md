@@ -37,3 +37,12 @@ Inside the output folder, reference.sgml or reference.dtl file will be created w
 ```
 python error_word_statistics.py
 ```
+  
+### Open sourcing Vakyansh-benchmarking data
+The link to the original 21 hours of data can be found at : [Vakyansh Benchmark Dataset without numbers](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus#hindi-benchmark-datasets-total-duration-is-41-hours)
+
+ To find the hypothesis, reference and modified_alt_wer_refernce_files as inferred from ASR model [him_4200.pt](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/lm) on [CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/lm):
+ <br>
+Viterbi : [link](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/viterbi)
+<br>
+LM output : [link](https://github.com/Open-Speech-EkStep/vakyansh-alternate-wer/tree/main/results/vakyansh_benchmarking_data/lm)
